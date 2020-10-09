@@ -62,7 +62,7 @@
 
 ---
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=kansiris&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/kansiris/github-readme-stats)
+[![Kansiris's github stats](https://github-readme-stats.vercel.app/api?username=kansiris&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/kansiris/github-readme-stats)
 
 [website]: https://www.kansiris.com/
 [facebook]: https://www.facebook.com/kansiris87
