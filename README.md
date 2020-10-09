@@ -1,18 +1,18 @@
-## Hello World !!! I'm [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
+## Hello World !!! I'm [Sireesh][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=kansiris" alt="kansiris" />
 
 ### Author | Speaker | Passionate Programmer
 
 - 🔭 I’m currently working on Angular, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, Angular
 - 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
-- 📫 How to reach me: [@ankitsharma_007][twitter]
+- 📫 How to reach me: [@kansiris_87][twitter]
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="kansiris | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="kansiris | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="kansiris | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="kansiris | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
 <br />
 
@@ -62,13 +62,13 @@
 
 ---
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
+[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=kansiris&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/kansiris/github-readme-stats)
 
-[website]: https://ankitsharmablogs.com/
-[facebook]: https://www.facebook.com/Ankit.Sharma.0709
-[twitter]: https://twitter.com/ankitsharma_007
-[linkedin]: https://www.linkedin.com/in/ankitsharma-007/
-[medium]: https://medium.com/@ankitsharmablog
+[website]: https://www.kansiris.com/
+[facebook]: https://www.facebook.com/kansiris87
+[twitter]: https://twitter.com/kansiris_87
+[linkedin]: https://www.linkedin.com/in/sireesh-kantamaneni-70703b38/
+[medium]: https://medium.com/@kansiris
 [c# book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
 [c# book]: https://amzn.to/3c2r5MO
 [blazor book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
