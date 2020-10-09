@@ -45,11 +45,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/?utm_source=rss&utm_medium=rss&utm_campaign=going-serverless-with-blazor)
-- [Announcing A Free eBook On Angular and Firebase](https://ankitsharmablogs.com/announcing-a-free-ebook-on-angular-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-a-free-ebook-on-angular-and-firebase)
-- [Optical Character Reader Using Angular And Azure Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-angular-and-azure-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-angular-and-azure-computer-vision)
-- [Optical Character Reader Using Blazor And Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-blazor-and-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-blazor-and-computer-vision)
-- [Multi-Language Translator Using Blazor And Azure Cognitive Services](https://ankitsharmablogs.com/multi-language-translator-using-blazor-and-azure-cognitive-services/?utm_source=rss&utm_medium=rss&utm_campaign=multi-language-translator-using-blazor-and-azure-cognitive-services)
+- [ASP.NET Web API Tutorial for Beginners](http://www.kansiris.org/2019/10/aspnet-web-api-tutorial-for-beginners.html)
+- [Csharp(c#) tutorial for Beginners](http://www.kansiris.org/2019/10/c-sharpc-tutorial.html)
+- [Sql server tutorials for Beginners](http://www.kansiris.org/2019/10/sql-server-tutorials-for-beginners.html)
+- [ASP.NET MVC tutorial for Beginners](http://www.kansiris.org/2019/10/aspnet-mvc-tutorial-for-beginners.html)
+- [Angular tutorial For Beginnner](http://www.kansiris.org/2019/09/angular-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
