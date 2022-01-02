@@ -62,7 +62,6 @@
 
 - [MS SQL Server Question Bank](http://www.kansiris.org/2019/09/angular-tutorial.html)
 
-[![MS SQL Server Question Bank] (https://www.amazon.com/MS-SQL-Server-Question-Bank-ebook/dp/B07RC4HY3P/ref=sr_1_3?crid=1G6J1F7JT62B5&keywords=sireesh+kantamaneni&qid=1641101050&sprefix=sireesh+kantamaneni%2Caps%2C400&sr=8-3)
 
 [![Kansiris's github stats](https://github-readme-stats.vercel.app/api?username=kansiris&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/kansiris/github-readme-stats)
 
