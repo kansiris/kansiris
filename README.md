@@ -57,12 +57,13 @@
 ### 📕 Publications
 
 [![React.JS Question Bank]
+https://www.amazon.com/React-JS-Question-Bank-Sireesh-Kantamaneni-ebook/dp/B07R4T8C1F/ref=sr_1_1?crid=1G6J1F7JT62B5&keywords=sireesh+kantamaneni&qid=1641101050&sprefix=sireesh+kantamaneni%2Caps%2C400&sr=8-1
 
 [![DOTNET ALL-IN-ONE QUESTION BANK FOR INTERVIEWS: DOTNET, C#, ASP.NET, MVC, Angular,React,SQL server, Javascript]
-
+https://www.amazon.com/DOTNET-ALL-ONE-QUESTION-INTERVIEWS-ebook/dp/B07PDGNN51/ref=sr_1_2?crid=1G6J1F7JT62B5&keywords=sireesh+kantamaneni&qid=1641101050&sprefix=sireesh+kantamaneni%2Caps%2C400&sr=8-2
 
 [![MS SQL Server Question Bank]
-
+https://www.amazon.com/MS-SQL-Server-Question-Bank-ebook/dp/B07RC4HY3P/ref=sr_1_3?crid=1G6J1F7JT62B5&keywords=sireesh+kantamaneni&qid=1641101050&sprefix=sireesh+kantamaneni%2Caps%2C400&sr=8-3
 ---
 
 [![Kansiris's github stats](https://github-readme-stats.vercel.app/api?username=kansiris&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/kansiris/github-readme-stats)
