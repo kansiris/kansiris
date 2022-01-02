@@ -1,10 +1,10 @@
-## Hello World !!! I'm [Sireesh][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=kansiris" alt="kansiris" />
+## Hello World !!! I'm [Sireesh Kantamaneni][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=kansiris" alt="kansiris" />
 
 ### Author | Speaker | Passionate Programmer
 
 - 🔭 I’m currently working on Angular, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, Angular
-- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
+- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Blogging
 - 📫 How to reach me: [@kansiris_87][twitter]
 
 ### 🤝 Connect with me:
