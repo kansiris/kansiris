@@ -56,9 +56,12 @@
 
 ### 📕 Publications
 
-[![React.JS Question Bank][React.JS Question Bank book cover]][c# book]
-[![DOTNET ALL-IN-ONE QUESTION BANK FOR INTERVIEWS: DOTNET, C#, ASP.NET, MVC, Angular,React,SQL server, Javascript][DOTNET ALL-IN-ONE QUESTION BANK FOR INTERVIEWS: DOTNET, C#, ASP.NET, MVC, Angular,React,SQL server, Javascript book cover]][blazor book]
-[![MS SQL Server Question Bank][MS SQL Server Question Bank book cover]][MS SQL Server Question Bank book]
+[![React.JS Question Bank]
+
+[![DOTNET ALL-IN-ONE QUESTION BANK FOR INTERVIEWS: DOTNET, C#, ASP.NET, MVC, Angular,React,SQL server, Javascript]
+
+
+[![MS SQL Server Question Bank]
 
 ---
 
